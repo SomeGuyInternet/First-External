@@ -1,4 +1,7 @@
 # First-External
+
+Credits: Zat, Grab, synthfx
+
 First External CSGO cheat i made :P 
 
 Mostly copy and pasted as i was learning to make externals. 
@@ -22,15 +25,13 @@ F6 - Health ESP Toggle
 
 F7 - Box ESP Toggle
 
-V1.1 - Added Box, Health, Distance and line ESP. 
-
-V1 - 
-Basic Shait
-
 Some Screenshots - 
 
 http://uwyoextension.org/uwnutrition.../getsauced.jpg
 
 http://i0.kym-cdn.com/entries/icons/.../copypasta.jpg
 
-Credits: Zat, Grab, synthfx
+V1.1 - Added Box, Health, Distance and line ESP. 
+
+V1 - 
+Basic Shait
