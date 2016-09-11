@@ -22,19 +22,15 @@ F6 - Health ESP Toggle
 
 F7 - Box ESP Toggle
 
-V1.1 = Download
+V1.1 - Added Box, Health, Distance and line ESP. 
 
-Change Log - 
-Added Box, Health, Distance and line ESP. 
-
-V1 = Download
-
-Credits: Zat, Grab, synthfx
-
-Started to use github for more frequent updates so heres the link :P -
-Github Source Code
+V1 - 
+Basic Shait
 
 Some Screenshots - 
+
 http://uwyoextension.org/uwnutrition.../getsauced.jpg
 
 http://i0.kym-cdn.com/entries/icons/.../copypasta.jpg
+
+Credits: Zat, Grab, synthfx
