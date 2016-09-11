@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="SlimMem.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DXD\Direct3DManager.cpp">
+      <Filter>Source\DXD</Filter>
+    </ClCompile>
+    <ClCompile Include="DXD\DXDraw.cpp">
+      <Filter>Source\DXD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SlimMem.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DXD\DXDraw.h">
+      <Filter>Headers\DXD</Filter>
+    </ClInclude>
+    <ClInclude Include="DXD\Direct3DManager.h">
+      <Filter>Headers\DXD</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{531f42a0-3a2c-4d1f-bc1e-9882eaeba950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{b3a60107-43bf-4118-8d15-922f206cb0ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DXD">
+      <UniqueIdentifier>{5bc799e2-7423-4cfa-91f9-c967dbd82034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\DXD">
+      <UniqueIdentifier>{1074f892-a4f3-4b11-ae6a-e0cdc37ee324}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
