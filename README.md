@@ -27,9 +27,8 @@ F7 - Box ESP Toggle
 
 Some Screenshots - 
 
-http://uwyoextension.org/uwnutrition.../getsauced.jpg
+![alt tag](http://uwyoextension.org/uwnutrition/wp-content/uploads/2015/03/getsauced.jpg)
 
-http://i0.kym-cdn.com/entries/icons/.../copypasta.jpg
 
 V1.1 - Added Box, Health, Distance and line ESP. 
 
